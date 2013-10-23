@@ -1,0 +1,27 @@
+{
+  "name": "protectedfield",
+  "title": "jQuery Protectedfield",
+  "description": "A jQuery plugin to prevent editing inputs until protection is removed",
+  "keywords": [
+    "jquery",
+    "forms",
+    "plugins"
+  ],
+  "version": "0.5",
+  "author": {
+    "name": "Chris Casciano",
+    "email": "chris@placenamehere.com",
+    "url": "https://github.com/placenamehere"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://zenorocha.mit-license.org/"
+    }
+  ],
+  "bugs": "https://github.com/placenamehere/protectedfield/issues",
+  "homepage": "https://github.com/placenamehere/protectedfield",
+  "dependencies": {
+    "jquery": ">=1.4"
+  }
+}
